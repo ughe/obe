@@ -1,0 +1,11 @@
+Clerk of the Arraigns. How say you, is the said James Annesley guilty of the Felony and Murder, wherewith he stands charged upon the Coroner's Inquisition, or not guilty?
+ Foreman of the Jury. Not guilty of the Murder, but guilty of Chance-Medley.
+ Clerk of the Arraigns. How say you, is the said  Joseph Redding guilty of the same Felony and Murder, wherewith he stands charged upon the Coroner's Inquisition, or not guilty?
+ Foreman of the Jury. Not guilty of the Murder, but guilty of Chance-Medley.
+ Clerk of the Arraigns. How say you, is the said  James Annesley guilty of wilfully shooting at Thomas Egglestone, against the Form of the Statute, or not guilty?
+ Foreman of the Jury. Not guilty.
+ Clerk of the Arraigns. Gentlemen of the Jury, hearken to your Verdicts, as the Court has recorded them. You say that  James Annesley is not guilty of the Felony and Murder whereof he stands indicted, but is guilty of Chance-Medley.
+ You say that  Joseph Redding is not guilty of the same Felony and Murder whereof he stands indicted, but is guilty of Chance-Medley.
+ You say the same upon the Coroner's Inquisition.
+ You also say that the said  James Annesley is not guilty of maliciously shooting at Thomas Egglestone, against the Form of the Statute. And so you say All.
+  

@@ -1,0 +1,83 @@
+; LIST OP JURORS.
+1
+First Jury
+Francis King
+William Lowe
+Thomas Hayward
+James Fielder
+Samuel Kipps
+George S. Hudson
+Edward Dyer
+Robert Hone
+Silas Galsworthy
+Thomas Humphrey
+William Harper
+Thomas Cranwell
+Second Jury.
+George Jackson
+John Jones
+Charles Spring
+Samuel Lescombe
+Benjamin Chamberlain
+William Henry Cox
+Henry James
+Thomas Fatherley
+Job Evans
+Charles Knight
+Robert Hatchinson
+James Neave
+Third Jury.
+James King
+Thomas Stephen Weston
+Henry Edward Malden
+Samuel Hickson
+John Barnard
+Thomas Humphreys
+William Thomas Jormu
+George Jarvis
+George Horsley
+Charles Bennett
+Thomas Howell
+Thomas Lester
+Pourth Jury.
+Daniel Kennedy
+John Epps
+Frederick Ford
+Thomas Parre
+William Howe
+Charles Hollis
+Phillimore Fenn
+Edward Edmonds
+Thomas Green
+Eleazer Fisher
+Thomas Hector Jackson
+Charles King
+Fifth Jury,
+Richard Hooke
+Benjamin Burge
+J. ho Alton
+Benjamin Henley
+James Knight
+John Tucker Travers
+Robert John King
+David Ingarfield
+Wheler Stephens
+John Elfin
+Henry Daniel Pontifex
+James Ward
+Sixth Jury.
+William Eldershaw
+Thomas Hendy
+Thomas Shepherd
+William Thomas Gooch
+George Garnett
+William Jarvis
+George John Hewitt
+George Francis
+John Hugh Green
+Samuel Godward
+Richard Frederick Benbor
+Joseph Ennover
+TO
+16
+
