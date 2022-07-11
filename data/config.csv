@@ -1,8 +1,7 @@
 title,Old Bailey and OCR Explorer (2020)
 txts-dirs,Human;AWS;Azure;GCP
-[]links,Code;https://github.com/ughe/old-bailey-explorer
-[]links,Data;data
-[]links,License;https://www.oldbaileyonline.org/static/Legal-info.jsp#termsofuse
-[]links,Old Bailey Online;https://oldbaileyonline.org
+[]links,Code;https://github.com/ughe/obe
+[]links,Data;https://github.com/ughe/obe/tree/master/data
+[]links,Old Bailey Online;https://www.oldbaileyonline.org/static/Legal-info.jsp#termsofuse
 []range,CER;0;1
 []range,Millis;0;12000
